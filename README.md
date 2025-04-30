@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🎮 <strong>Aspiring Web/Game Developer</strong> from 🇫🇷 France <br>
+  🎮 <strong>Aspiring Developer</strong> from 🇫🇷 France <br>
   💻 <strong>Passionate</strong> about building <strong>interactive digital experiences</strong> <br>
 </p>
 
@@ -17,34 +17,40 @@
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="java logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="java logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  /> 
 </p>
 
 ### 🛠️ Backend Development
 <p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" style="background-color: white; padding: 5px; border-radius: 5px;" />
 </p>
 
-### 🎮 Game Development
-<p>
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
 
 ### ⚙️ DevOps & Tools
 <p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="java logo"  /> 
+</p>
+
+### 📚 Currently Learning
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo" />
 </p>
 
 ---
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amayas-Tamarat&show_icons=true&theme=radical)
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=Amayas-Tamarat&show_icons=true&theme=radical" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amayas-Tamarat&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+
 
 
 
